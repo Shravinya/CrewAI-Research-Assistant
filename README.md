@@ -1,7 +1,5 @@
 # CrewAI-Research-Assistant
 
-# 🤖 AI Research Assistant
-
 An interactive **AI-powered research assistant** built with [CrewAI] [Google Gemini] and [Streamlit].  
 This app researches any topic you enter and summarizes it into **key insights + a short paragraph**, with agent transparency and conversation history.
 
